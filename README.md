@@ -26,5 +26,5 @@ gradle clean test
 4. To view report
 ```sh
 ```
-## Report View & Screen Rec.
-![fulltest](https://user-images.githubusercontent.com/93866513/174331040-69e34f31-3ca0-42cf-a7cb-32c0b73bf8cb.png)
+## Screen Rec.
+
