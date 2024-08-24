@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="orange hrm">
+
+    <test name="Login Page Varify">
+        <classes>
+            <class name="Login_Functionality.Login_Page_Runner">
+
+            </class>
+
+        </classes>
+
+    </test>
+
+    <test name="Search Page Varify">
+        <classes>
+            <class name="Manga_Details_Modal.Manga_Search_Runner">
+
+            </class>
+
+        </classes>
+
+    </test>
+
+
+    <test name="Modal Varify">
+        <classes>
+            <class name="Manga_Search_and_Display.Details_Model_Runner">
+
+            </class>
+
+        </classes>
+
+    </test>
+
+</suite>
