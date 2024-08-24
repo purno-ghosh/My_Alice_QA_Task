@@ -1,3 +1,5 @@
+## Screen Rec.
+https://github.com/user-attachments/assets/4189c908-e47b-43f0-8c2f-496d8f46c2b9
 # My_Alice_QA_Task
 Web-automation test project , TestNG, In this project work with Selenium Web-Driver, Page object Model (POM), Json,
  using java language.
@@ -26,5 +28,5 @@ gradle clean test
 4. To view report
 ```sh
 ```
-## Screen Rec.
+
 
