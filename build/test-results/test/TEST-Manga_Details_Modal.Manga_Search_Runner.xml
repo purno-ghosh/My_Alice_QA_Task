@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Manga_Details_Modal.Manga_Search_Runner" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-24T20:57:28" hostname="PURNO" time="12.886">
+  <properties/>
+  <testcase name="MangaSearch" classname="Manga_Details_Modal.Manga_Search_Runner" time="12.886"/>
+  <system-out><![CDATA[Search Manga
+Naruto
+One Piece
+No manga found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

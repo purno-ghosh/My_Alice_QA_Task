@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login_Functionality.Login_Page_Runner" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-24T20:57:20" hostname="PURNO" time="6.384">
+  <properties/>
+  <testcase name="doLogin" classname="Login_Functionality.Login_Page_Runner" time="6.384"/>
+  <system-out><![CDATA[Login
+Search Manga
+Pass >> Verify that the login functionality works correctly.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
